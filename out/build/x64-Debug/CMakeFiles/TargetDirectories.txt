@@ -1,0 +1,5 @@
+C:/Users/haost/source/repos/DataMatrix/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/haost/source/repos/DataMatrix/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/haost/source/repos/DataMatrix/out/build/x64-Debug/DataMatrix/CMakeFiles/DataMatrix.dir
+C:/Users/haost/source/repos/DataMatrix/out/build/x64-Debug/DataMatrix/CMakeFiles/edit_cache.dir
+C:/Users/haost/source/repos/DataMatrix/out/build/x64-Debug/DataMatrix/CMakeFiles/rebuild_cache.dir
